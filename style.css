@@ -27,5 +27,7 @@
 .text-p {
     font-family: 'Special Elite';
     text-align: center;
-
+}
+a.button{
+    color:black;
 }
