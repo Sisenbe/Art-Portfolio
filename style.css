@@ -1,6 +1,15 @@
-body {
-    font-family: 'Special Elite';
+#background-IMG {
     background-image: url(PIC/Scan\ final\ photoshop.png);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
 
+}
+
+.text-center {
+    font-family: 'Special Elite';
+    text-align: center;
 }
