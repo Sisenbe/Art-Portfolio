@@ -1,15 +1,25 @@
+#main-box { 
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background-color: #f0f0f0;
+}
+
+
 #background-IMG {
     background-image: url(PIC/Scan\ final\ photoshop.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 60%;
     height: 100%;
     position: absolute;
 
 }
 
-.text-center {
+#text-center {
     font-family: 'Special Elite';
     text-align: center;
 }
