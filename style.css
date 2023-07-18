@@ -16,10 +16,16 @@
     width: 60%;
     height: 100%;
     position: absolute;
+    padding-top: 350px;
 
 }
 
-#text-center {
+.text-center {
     font-family: 'Special Elite';
     text-align: center;
+}
+.text-p {
+    font-family: 'Special Elite';
+    text-align: center;
+
 }
