@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   height: 100%;
-  background-color: #f0f0f0;
+  background-color: #D6DEB2;
 }
 
 
@@ -23,11 +23,12 @@
 .text-center {
     font-family: 'Special Elite';
     text-align: center;
+    color: #2C2C2C;
 }
 .text-p {
     font-family: 'Special Elite';
     text-align: center;
 }
 a.button{
-    color:black;
+    color: #2C2C2C;
 }
