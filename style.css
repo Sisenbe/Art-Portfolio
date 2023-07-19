@@ -10,13 +10,14 @@
 
 #background-IMG {
     background-image: url(PIC/Scan\ final\ photoshop.png);
-    background-size: cover;
+    background-size: 70%;
     background-position: center;
     background-repeat: no-repeat;
-    width: 60%;
+    width: 100vw;
     height: 100%;
     position: absolute;
-    padding-top: 300px;
+    padding-top: 375px;
+    background-attachment: fixed;
 
 }
 
