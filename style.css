@@ -39,4 +39,12 @@ a.button{
     background-size: 100%;
     padding-top: 45vh;
      }
-   }
+
+     h1{
+        font-size: 4vw !important;
+     }
+     .text-p{
+        font-size: 3vw !important;
+     }
+
+}
